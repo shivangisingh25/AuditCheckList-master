@@ -51,7 +51,7 @@ namespace AuditCheckList.Controllers
                 Question.Add("Has the application owner approval obtained while adding a user to the system?");
                 Question.Add("Is data deletion from the system done with application owner approval?");
             }
-             return Ok(Question);                                                                          //return 200 status code                                                                
+             return Ok(Question);                                                                          //return 200  status code                                                                
 
         }
     }

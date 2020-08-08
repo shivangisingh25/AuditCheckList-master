@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: auditchecklist
-        image: auditprojectcr.azurecr.io/auditchecklist865800repos:latest
+        image: auditcr.azurecr.io/auditchecklistrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:

@@ -72,3 +72,4 @@ INFO  05:56:11  07:08:2020 AuditChceklist Get Method invoked with InternAl Audit
 INFO  08:18:07  08:08:2020 Application started. Press Ctrl+C to shut down.
 INFO  08:18:07  08:08:2020 Hosting environment: Development
 INFO  08:18:07  08:08:2020 Content root path: C:\Users\Dell\source\repos\AuditCheckList-master
+INFO  08:19:19  08:08:2020 Application is shutting down...
