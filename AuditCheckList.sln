@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditCheckList", "AuditCheckList.csproj", "{89756765-4C09-46A3-B3D9-2862244546ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditCheckListTesting", "..\AuditCheckListTesting\AuditCheckListTesting.csproj", "{4D1D58B3-B732-47EE-A927-9C0BC3DD466A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89756765-4C09-46A3-B3D9-2862244546ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89756765-4C09-46A3-B3D9-2862244546ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89756765-4C09-46A3-B3D9-2862244546ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89756765-4C09-46A3-B3D9-2862244546ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1D58B3-B732-47EE-A927-9C0BC3DD466A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1D58B3-B732-47EE-A927-9C0BC3DD466A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1D58B3-B732-47EE-A927-9C0BC3DD466A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1D58B3-B732-47EE-A927-9C0BC3DD466A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D731B920-4969-4C0A-BFFB-90F886DA8A8B}
+	EndGlobalSection
+EndGlobal
